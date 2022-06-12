@@ -1,0 +1,4 @@
+This folder contains modeling results:
+dspace: default state space experiments (RL model)
+extspace: extended state space 
+slprediction : supervised model results
