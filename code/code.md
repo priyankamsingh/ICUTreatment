@@ -1,5 +1,5 @@
  [code_resources: mimic_code]
- url: https://github.com/MIT-LCP/mimic-code
+ ####### url: https://github.com/MIT-LCP/mimic-code
  [code_resources: microsoft]
  url: https://github.com/microsoft/mimic_sepsis
  [code_resources: Araghu]
