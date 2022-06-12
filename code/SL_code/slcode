@@ -1,0 +1,4 @@
+This folder contains the code for preparing data for the supervised models 
+#Process SQL Table data 
+#Process MIMIC tables to dataframe for SL
+#Run Supervised models
