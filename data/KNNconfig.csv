@@ -1,0 +1,3 @@
+metric,feature_weights,algorithm,Minkowski_Power_parameter,n_neighbors
+wminkowski,"[1. 1. 1. 1. 2. 1. 1. 1. 1. 1. 1. 1. 1. 2. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+ 2. 2. 1. 1. 2. 1. 1. 1. 1. 1. 1. 1. 1. 2. 1. 1. 1. 1. 1. 2. 1. 1. 2.]",auto,2,300
