@@ -1,13 +1,13 @@
- [code_resources: mimic_code]
- ####### url: https://github.com/MIT-LCP/mimic-code
- [code_resources: microsoft]
- url: https://github.com/microsoft/mimic_sepsis
- [code_resources: Araghu]
- url: https://github.com/aniruddhraghu/sepsisrl
- [code_resources: Peng ]
- url:https://github.com/xuefeng7/Improving-Sepsis-Treatment-Strategies
- [code_resources:cs238 ]
- url: https://github.com/spfohl/cs238_sepsis_rl
- [code_resources: Roggeveen]
- url: https://github.com/LucaMD/SRL
+ - [code_resources: mimic_code]
+ -- url: https://github.com/MIT-LCP/mimic-code
+ - [code_resources: microsoft]
+ -- url: https://github.com/microsoft/mimic_sepsis
+-  [code_resources: Araghu]
+ -- url: https://github.com/aniruddhraghu/sepsisrl
+ - [code_resources: Peng ]
+ -- url:https://github.com/xuefeng7/Improving-Sepsis-Treatment-Strategies
+ - [code_resources:cs238 ]
+ -- url: https://github.com/spfohl/cs238_sepsis_rl
+ - [code_resources: Roggeveen]
+ -- url: https://github.com/LucaMD/SRL
  
